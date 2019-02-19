@@ -12,7 +12,7 @@ second interview.
 ### What you should expect?
 
 We expect that the amount of effort to do any of these exercises is in
-the range of about 4-6 hours of actual work. We also understand that
+the range of about 3-6 hours of actual work. We also understand that
 your time is valuable, and in anyone's busy schedule that constitutes
 a fairly substantial chunk of time, so we really appreciate any effort
 you put in to helping us building a solid team - and if you really
@@ -37,7 +37,7 @@ a second time based on the feedback.
 
 ### What we are looking for?
 
-Keep it simple. Really. 4-6 hours isn't a lot of time and we really
+Keep it simple. Really. 3-6 hours isn't a lot of time and we really
 don't want you spending too much more time on it than that. It's more
 important for us to see how you approach the problem rather then
 solving it in its entirety.
