@@ -55,10 +55,10 @@ tasks:
 
  1. Given that it is difficult to obtain real data from the weather
     balloon we would first like to be able to generate test data for use in simulation and
-    testing. This tool should be able to generate at least 1 million
-    lines of data for testing your tool. The tool should add every line into a RabbitMQ queue.
+    testing. This producer service should be able to generate at least 1 million
+    lines of data for testing your consumer (next steps). The service should add every line into a RabbitMQ queue.
 
- 2. Produce statistics of the flight. The program should be able to display the current information in real time (reading from the queu):
+ 2. Create a consumer service which produces statistics of the flight. The program should be able to display the current information (at best in real time) (reading from the queue):
 
     - The minimum temperature.
 
@@ -69,6 +69,22 @@ tasks:
     - The number of observations from each observatory.
 
     - The total distance travelled.
-
- 3. Persist all the data in a Postgres DB.
     
+    - Persist all the data in a Postgres or H2 DB.
+    
+  3. Create a program which can display past information stored in the database - given a time range:
+  
+    - The minimum temperature.
+
+    - The maximum temperature.
+
+    - The mean temperature.
+
+    - The number of observations from each observatory.
+
+    - The total distance travelled.
+   
+#### Notes
+
+* Please use docker and send us a link to the public repo (Github, Gitlab, etc) - we love to read all your commits :)
+
