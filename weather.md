@@ -71,18 +71,8 @@ tasks:
     - The total distance travelled.
     
     - Persist every line into a Postgres or h2 DB.
-    
-  3. Create a program which can display past information stored in the database - given a time range:
-  
-    - The minimum temperature.
-
-    - The maximum temperature.
-
-    - The mean temperature.
-
-    - The number of observations from each observatory.
-
-    - The total distance travelled.
+      
+ 3. Create a program which can display past information (see above) stored in the database - given a time range
    
 #### Notes
 
