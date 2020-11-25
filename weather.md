@@ -70,7 +70,7 @@ tasks:
 
     - The total distance travelled.
     
-    - Persist all the data in a Postgres or H2 DB.
+    - Persist every line into a Postgres or h2 DB.
     
   3. Create a program which can display past information stored in the database - given a time range:
   
