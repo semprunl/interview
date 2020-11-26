@@ -77,4 +77,5 @@ tasks:
 #### Notes
 
 * Please use docker and send us a link to the public repo (Github, Gitlab, etc) - we love to read all your commits :)
+* To output the data as requested on tasks #2 and #3 a simple command line output is enough - no HTML or anything fancy is required
 
