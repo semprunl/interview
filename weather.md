@@ -2,7 +2,7 @@ Weather Observations
 --------------------
 
 Build a tool to mine the logs of a weather balloon for important
-information.
+information - please use Spring Boot to do so.
 
 #### Requirements
 
@@ -74,8 +74,10 @@ tasks:
       
  3. Create a program which can display past information (see above) stored in the database - given a time range
    
-#### Notes
+#### Notes/Requirements
 
+* Remember to use Spring Boot for your test
 * Please use docker and send us a link to the public repo (Github, Gitlab, etc) - we love to read all your commits :)
 * To output the data as requested on tasks #2 and #3 a simple command line output is enough - no HTML or anything fancy is required
+* Please add a readme file explaining as much as possible your code and how can we execute it
 
