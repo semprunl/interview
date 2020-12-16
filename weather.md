@@ -76,7 +76,8 @@ tasks:
    
 #### Notes/Requirements
 
-* Remember to use Spring Boot for your test
+* Remember to use Spring Boot for your project
+* Creating even a small test for your code will give you extra points
 * Please use docker and send us a link to the public repo (Github, Gitlab, etc) - we love to read all your commits :)
 * To output the data as requested on tasks #2 and #3 a simple command line output is enough - no HTML or anything fancy is required
 * Please add a readme file explaining as much as possible your code and how can we execute it
